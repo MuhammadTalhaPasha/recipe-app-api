@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER London App Developer Ltd.
+MAINTAINER talha app dev.
 
 ENV PYTHONUNBUFFERED 1
 
